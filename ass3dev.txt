@@ -1,2 +1,2 @@
 test edit 1
-test git fetch
+test git pull
